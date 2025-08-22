@@ -15,6 +15,7 @@
 - 💻 **C++**
 - 🔧 **Git**
 - 🔄 **Metodologias Ágeis**
+- Inteligência Artificial 
 
 ---
 
